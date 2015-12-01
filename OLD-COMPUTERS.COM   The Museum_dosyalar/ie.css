@@ -1,0 +1,622 @@
+A:visited
+{
+    TEXT-DECORATION: none
+}
+
+A:link
+{
+    TEXT-DECORATION: none
+}
+
+A:hover
+{
+    TEXT-DECORATION: underline
+}
+
+blockquote {
+  margin: 10px;
+}
+
+.petitnoir
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    LINE-HEIGHT: 14px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+.petitnoir2
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    /*LINE-HEIGHT: 12px;*/
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.petitgris
+{
+    FONT-SIZE: 11px;
+    COLOR: #aaaaaa;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.petitgris a:link
+{
+    TEXT-DECORATION: none;
+	COLOR: #aaaaaa;
+}
+
+.petitgris a:visited
+{
+    TEXT-DECORATION: none;
+	COLOR: #aaaaaa;
+}
+
+.petitgris a:hover
+{
+    TEXT-DECORATION: none;
+	COLOR: red;	
+}
+
+.petitgris a:active
+{
+    TEXT-DECORATION: none
+}
+
+
+A.seealso
+{
+    FONT-SIZE: 10px;
+    COLOR: #aaaaaa;
+    LINE-HEIGHT: 11px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+
+A.seealso:link
+{
+	TEXT-DECORATION: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+A.seealso:hover
+{
+	COLOR: #000000;
+	background-color: #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+A.seealso:visited
+{
+    TEXT-DECORATION: none;
+}
+
+
+
+
+.petitnoir3
+{
+    FONT-SIZE: 11px;
+	COLOR: black;
+    LINE-HEIGHT: 14px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+A.petitnoir3:link {TEXT-DECORATION: none}
+A.petitnoir3:visited {TEXT-DECORATION: none}
+A.petitnoir3:hover {TEXT-DECORATION: none; COLOR: red;}
+
+.vide
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    LINE-HEIGHT: 11px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+.noir
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    LINE-HEIGHT: 18px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+.noir2
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif
+}
+.noir3
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.noir4
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.grandnoir
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.grandvert
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: #006400;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.grandrouge
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: red;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.grandblanc
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.grandgris
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: 737373;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.petitvert
+{
+    FONT-SIZE: 11px;
+    COLOR: darkgreen;
+    LINE-HEIGHT: 13px;
+    FONT-FAMILY: Arial, Verdana, Tahoma, helvetica, sans-serif
+}
+
+.question {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #006633;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+.surligne1 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFFF00;
+    LINE-HEIGHT: 14px;	
+}
+
+A.surligne1:visited
+{
+    TEXT-DECORATION: none
+}
+A.surligne1:link
+{
+    TEXT-DECORATION: none
+}
+A.surligne1:hover
+{
+    TEXT-DECORATION: none
+	color: #000000;
+}
+
+A.petitnoir2:link
+{
+    TEXT-DECORATION: none
+}
+
+
+A.grandvert:link
+{
+    TEXT-DECORATION: none
+}
+A.grandvert:visited
+{
+    TEXT-DECORATION: none
+}
+A.grandvert:hover
+{
+}
+A.grandblanc:link
+{
+    TEXT-DECORATION: none
+}
+A.grandblanc:visited
+{
+    TEXT-DECORATION: none
+}
+A.grandblanc:hover
+{
+}
+A.petitnoir2:visited
+{
+    TEXT-DECORATION: none
+}
+
+
+A.noir2:visited
+{
+    TEXT-DECORATION: none
+}
+A.petitvert:visited
+{
+    TEXT-DECORATION: none
+}
+A.petitvert:link
+{
+    TEXT-DECORATION: none
+}
+A.petitvert:hover
+{
+    TEXT-DECORATION: underline
+}
+A.petitnoir2:hover
+{
+    TEXT-DECORATION: underline
+}
+
+A.noir2:link
+{
+    TEXT-DECORATION: none
+}
+A.noir2:hover
+{
+    TEXT-DECORATION: underline
+}
+A.noir3:link
+{
+    TEXT-DECORATION: none
+}
+A.noir3:hover
+{
+    TEXT-DECORATION: none
+}
+A.noir3:visited
+{
+    TEXT-DECORATION: none
+}
+A.noir4:link
+{
+    TEXT-DECORATION: none
+}
+A.noir4:visited
+{
+    TEXT-DECORATION: none
+}
+A.noir4:hover
+{
+    TEXT-DECORATION: underline
+}
+BODY
+{
+    SCROLLBAR-FACE-COLOR: #dddddd;
+    SCROLLBAR-HIGHLIGHT-COLOR: #dddddd;
+    SCROLLBAR-SHADOW-COLOR: #666666;
+    SCROLLBAR-3DLIGHT-COLOR: #666666;
+    SCROLLBAR-ARROW-COLOR: #666666;
+    SCROLLBAR-TRACK-COLOR: #f9f3e3;
+    SCROLLBAR-DARKSHADOW-COLOR: #f9f3e3
+}
+
+.boite-dotted {
+  border-top: solid thin dashed grey;
+  border-right: solid thin dashed grey;
+  border-bottom: solid thin dashed grey;
+  border-left: solid thin dashed grey;
+}
+
+.boite-dotted2 {
+  border-top: solid thin dotted grey;
+  border-right: solid thin dotted grey;
+  border-bottom: solid thin dotted grey;
+  border-left: solid thin dotted grey;
+}
+
+.boite-dotted3 {
+  border-top: solid thin dashed #B4B4A8;
+  border-right: solid thin dashed #B4B4A8;
+  border-bottom: solid thin dashed #B4B4A8;
+  border-left: solid thin dashed #B4B4A8;
+}
+
+.contour1 {
+	border: 1px dashed #000000;
+}.tableau-marque {
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+}
+.ligne-pointille {
+	border-bottom-width: 1px;
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+}
+.marque {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FF0000;
+	letter-spacing: 1px;
+}
+
+.ombre
+{
+font-weight: Bold;
+filter: DropShadow(color='black', offy='1', offx='1', positive='True');
+width:100%;
+}
+
+.soft-title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+
+A.soft-title:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-title:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-title:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-titleblue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #48aaf8;
+}
+
+.soft-year {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #167511;
+	padding: 4px;
+}
+.soft-company {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #D4F832;
+}
+.soft-comment {
+	FONT-SIZE: 11px;
+	COLOR: #aaaaaa;
+	LINE-HEIGHT: normal;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	padding-top: 1px;
+
+}
+.soft-title2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: ff6600;
+}
+
+.soft-title3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: ff6600;
+}
+
+.soft-sys {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: 48aaf8;
+}
+
+.soft-grey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: bfbfbf;
+}
+
+.soft-specs {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #b6b6b6;
+}
+
+A.soft-specs:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-specs:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-specs:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-specs2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #ff6600;
+}
+
+A.soft-specs2:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-specs2:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-specs2:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-ref {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #95E091;
+}
+
+.soft-liens1 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #00A4E8;
+}
+
+A.soft-liens1:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-liens1:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-liens1:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-tags {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #1FBD6D;
+}
+
+A.soft-tags:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-tags:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-tags:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-tags2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	color: #909090;
+}
+
+A.soft-tags2:visited
+{
+    TEXT-DECORATION: none
+}
+A.soft-tags2:link
+{
+    TEXT-DECORATION: none
+}
+A.soft-tags2:hover
+{
+    TEXT-DECORATION: underline
+}
+
+.soft-quote
+{
+	font-style: italic;
+	font-weight: lighter;
+	color: #666666;
+	margin-left: 18px;
+	display: block;
+	margin-right: 18px;
+}
+
+/* FOR THE DHTML CAROUSEL */
+
+.stepcarousel{
+position: relative; /*leave this value alone*/
+border: 2px solid #d3d3d3;
+overflow: scroll; /*leave this value alone*/
+width: 180px; /*Width of Carousel Viewer itself*/
+height: 200px; /*Height should enough to fit largest content's height*/
+}
+
+.stepcarousel .belt{
+position: absolute; /*leave this value alone*/
+left: 0;
+top: 0;
+}
+
+.stepcarousel .panel{
+float: left; /*leave this value alone*/
+overflow: hidden; /*clip content that go outside dimensions of holding panel DIV*/
+margin: 10px; /*margin around each panel*/
+width: 250px; /*Width of each panel holding each content. If removed, widths should be individually defined on each content DIV then. */
+}
